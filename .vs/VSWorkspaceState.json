@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\api",
+    "\\src\\components\\commonAside",
+    "\\src\\config",
+    "\\src\\store",
+    "\\src\\store\\reducers"
+  ],
+  "PreviewInSolutionExplorer": false
+}

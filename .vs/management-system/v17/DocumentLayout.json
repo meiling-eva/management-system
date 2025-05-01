@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\components\\commonAside\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\commonAside\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\components\\commonAside\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\commonAside\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\api\\mockServeData\\permission.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\mockServeData\\permission.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\config\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\config\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\login\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\login\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\home\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\home\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\main.js",
+              "RelativeDocumentMoniker": "src\\pages\\main.js",
+              "ToolTip": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\main.js",
+              "RelativeToolTip": "src\\pages\\main.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-13T12:36:26.678Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\home\\index.js",
+              "RelativeDocumentMoniker": "src\\pages\\home\\index.js",
+              "ToolTip": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\home\\index.js",
+              "RelativeToolTip": "src\\pages\\home\\index.js",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-28T04:08:26.255Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\components\\commonAside\\index.js",
+              "RelativeDocumentMoniker": "src\\components\\commonAside\\index.js",
+              "ToolTip": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\components\\commonAside\\index.js",
+              "RelativeToolTip": "src\\components\\commonAside\\index.js",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-29T23:35:24.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\components\\commonAside\\index.css",
+              "RelativeDocumentMoniker": "src\\components\\commonAside\\index.css",
+              "ToolTip": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\components\\commonAside\\index.css",
+              "RelativeToolTip": "src\\components\\commonAside\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-29T23:35:22.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\config\\index.js",
+              "RelativeDocumentMoniker": "src\\config\\index.js",
+              "ToolTip": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\config\\index.js",
+              "RelativeToolTip": "src\\config\\index.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-29T23:24:47.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\login\\index.js",
+              "RelativeDocumentMoniker": "src\\pages\\login\\index.js",
+              "ToolTip": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\pages\\login\\index.js",
+              "RelativeToolTip": "src\\pages\\login\\index.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-29T22:46:25.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "permission.js",
+              "DocumentMoniker": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\api\\mockServeData\\permission.js",
+              "RelativeDocumentMoniker": "src\\api\\mockServeData\\permission.js",
+              "ToolTip": "C:\\Users\\evaml\\OneDrive\\Documents\\GitHub\\management-system\\src\\api\\mockServeData\\permission.js",
+              "RelativeToolTip": "src\\api\\mockServeData\\permission.js",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-29T22:46:00.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

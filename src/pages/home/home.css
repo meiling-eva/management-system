@@ -1,0 +1,96 @@
+.home img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 40px;
+}
+
+.home .name {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.home .user {
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    /*border-bottom: 1px solid #ccc;*/
+    overflow: hidden;
+}
+
+.home .login-info {
+    overflow: hidden;
+}
+
+.home .login-info p {
+    line-height: 28px;
+    font-size: 14px;
+    color: #999999;
+}
+
+    .home .login-info p span {
+        color: #666666;
+        margin-left: 60px;
+    }
+
+    .home .login-info p .lastLogDate {
+        margin-left: 85px;
+    }
+
+.home .brandName {
+    margin-top: 8px;
+    overflow-x: auto;
+    overflow-y: hidden
+}
+
+.home .num {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+    .home .num .ant-card {
+        width: 33%;
+        margin-bottom:5px;
+    }
+
+    .home .num .ant-card-body {
+        display: flex;
+        padding: 10px 25px;
+    }
+
+    .home .num .icon-box {
+        width: 80px;
+        height: 80px;
+        text-align: center;
+        line-height: 85px;
+        color: #fff;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+
+.home .anticon {
+    font-size: 30px;
+}
+
+.home .num .details .detailsValue {
+    font-size: 28px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.home .num .details .detailsName {
+    font-size: 14px;
+    text-align: center;
+    color: #999999;
+    margin-left: 5px;
+}
+
+.home .graphes {
+    display: flex;
+    margin-top: 20px;
+    margin-left:5px;
+}

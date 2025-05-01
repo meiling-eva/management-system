@@ -1,0 +1,86 @@
+.mallTitle {
+    text-align: center;
+    color: #2e3e48;
+    margin: 0.8rem 0;
+    font-family: Lato;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.memberOptions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 0.2rem;
+    margin-top: 3rem;
+}
+
+    .memberOptions .ant-card {
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-bottom: 2rem;
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 0.8rem 1.4rem;
+        border-width: 0.2rem;
+        position: relative;
+        vertical-align: top;
+        white-space: normal;
+    }
+
+        .memberOptions .ant-card .ant-card-head-title {
+            font-family: Lato;
+            font-weight: bold;
+            font-size:2rem;
+            text-align:center;
+            margin:0.5rem 0;
+        }
+
+        .memberOptions .ant-card .memStart {
+            margin-top:0.6rem;
+            text-align:center;
+        }
+
+        .memberOptions .ant-card .memAccess {
+            margin: 1rem 0;
+        }
+
+            .memberOptions .ant-card .memAccess .clubAccess {
+                margin-left: 2rem;
+                font-size: 0.9rem;
+                font-family: Lato;
+                color: rgb(200, 16, 46);
+                font-weight: bold;
+                float: right;
+                overflow: hidden;
+            }
+
+        .memberOptions .ant-card .memStart {
+            display: flex;
+            justify-content: center;
+        }
+
+        .memberOptions .ant-card .memPrice {
+            font-family: Lato;
+            font-weight: bold;
+            font-size: 2rem;
+            text-align: center;
+            margin: 0.2rem 0 0.8rem 0;
+            display: flex;
+            justify-content: center;
+        }
+
+    .memberOptions .ant-btn {
+        border-radius: 2.5rem;
+        background-color: transparent;
+        color: rgb(200, 16, 46);
+        border: 0.15rem solid rgb(200, 16, 46);
+        padding: 0.9rem 2rem;
+        font-family: Lato;
+        font-weight: bold;
+        display: flex;
+        margin: auto;
+        overflow:hidden;
+    }
+
+.memBtn {
+    
+}

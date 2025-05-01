@@ -1,0 +1,12 @@
+.user .flexbox {
+    display: flex;
+    justify-content:space-between;
+}
+
+.user .userTable {
+    margin-top: 10px;
+}
+
+.user .editButton {
+    display: flex;
+}

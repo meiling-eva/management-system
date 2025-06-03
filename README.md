@@ -1,3 +1,8 @@
+This is a management system built with React, Ant Design, JavaScript, Apache Echarts, Mock.js.
+
+The login page 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

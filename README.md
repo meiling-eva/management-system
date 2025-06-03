@@ -1,6 +1,10 @@
+# Reacr Management System
+
 This is a management system built with React, Ant Design, JavaScript, Apache Echarts, Mock.js.
 
 The login page 
+![React Management Sys Login Page](https://github.com/user-attachments/assets/f58f7722-6d9b-4677-9466-5e5eb6b01eed)
+
 
 
 # Getting Started with Create React App
